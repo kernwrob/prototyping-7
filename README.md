@@ -75,6 +75,11 @@ geprüft, weil die verfügbare Browsersteuerung den Zugriff beendet hat.
 
 ## Deployment auf Netlify (Übung 7)
 
+- Anwendung: https://kernwrob-prototyping-7.netlify.app
+- GitHub: https://github.com/kernwrob/prototyping-7
+- Netlify-Verwaltung: https://app.netlify.com/projects/kernwrob-prototyping-7
+- Produktionsbranch: `main`; Pushes lösen über den GitHub-Webhook einen Build aus.
+
 Das Projekt verwendet `@sveltejs/adapter-netlify`. Der Adapter läuft mit
 Node.js (`edge: false`), damit der MongoDB-Treiber verwendet werden kann.
 `netlify.toml` legt Node.js 24, `npm run build` und den Ausgabeordner `build` fest.
