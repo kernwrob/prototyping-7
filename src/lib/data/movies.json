@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Sternenwanderer",
+    "year": 2025,
+    "length": "143 min",
+    "genre": "Sci-Fi",
+    "poster": "/images/sternenwanderer.svg",
+    "description": "A cartographer follows a mysterious signal beyond the last charted star.",
+    "actors": [
+      "Mara Winter",
+      "Noah Berg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Das Geheimnis von Altura",
+    "year": 2024,
+    "length": "120 min",
+    "genre": "Fantasy",
+    "poster": "/images/altura.svg",
+    "description": "Two siblings discover a forgotten city hidden above the clouds.",
+    "actors": [
+      "Lina Sommer",
+      "Elias Falk"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Die letzte Station",
+    "year": 2026,
+    "length": "108 min",
+    "genre": "Thriller",
+    "poster": "/images/letzte-station.svg",
+    "description": "An empty platform. A train without a timetable. One chance to leave.",
+    "actors": [
+      "David Kern",
+      "Amira Roth"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Unter fremden Sternen",
+    "year": 2023,
+    "length": "132 min",
+    "genre": "Sci-Fi",
+    "poster": "/images/fremde-sterne.svg",
+    "description": "An astronaut finds an unexpected companion on a distant, silent moon.",
+    "actors": [
+      "Jona Weiss",
+      "Nele Sturm"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Echo der Tiefe",
+    "year": 2025,
+    "length": "116 min",
+    "genre": "Thriller",
+    "poster": "/images/echo.svg",
+    "description": "A research crew hears a familiar voice from the bottom of the ocean.",
+    "actors": [
+      "Clara Seidel",
+      "Levi Brandt"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Morgen hinter den Bergen",
+    "year": 2024,
+    "length": "99 min",
+    "genre": "Drama",
+    "poster": "/images/berge.svg",
+    "description": "Returning to her mountain village, a photographer learns to begin again.",
+    "actors": [
+      "Sofia Marti",
+      "Finn Keller"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Der goldene Weg",
+    "year": 2026,
+    "length": "124 min",
+    "genre": "Adventure",
+    "poster": "/images/kompass.svg",
+    "description": "A young explorer inherits a compass that points toward lost memories.",
+    "actors": [
+      "Mila Stein",
+      "Leon Auer"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Als die Stadt schlief",
+    "year": 2025,
+    "length": "104 min",
+    "genre": "Drama",
+    "poster": "/images/stadt.svg",
+    "description": "Over one summer night, three strangers find their way through the city.",
+    "actors": [
+      "Emma Graf",
+      "Ben Adler",
+      "Liv Meier"
+    ]
+  }
+]

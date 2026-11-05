@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff13"
+  },
+  "title": "Das Geheimnis von Altura",
+  "year": 2024,
+  "length": "120 Minuten",
+  "actors": [
+    "Lena Herzog",
+    "Maximilian Schröder",
+    "Sophia Neumann"
+  ],
+  "poster": "/images/Altura.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff14"
+  },
+  "title": "Sternenwanderer",
+  "year": 2025,
+  "length": "143 Minuten",
+  "actors": [
+    "Hannah Fischer",
+    "Julian Becker",
+    "Lara Weber"
+  ],
+  "poster": "/images/Sternenwanderer.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff15"
+  },
+  "title": "Flüsternde Schatten",
+  "year": 2023,
+  "length": "105 Minuten",
+  "actors": [
+    "Emilie Schmidt",
+    "Niklas Hoffmann",
+    "Anna Meyer"
+  ],
+  "poster": "/images/Schatten.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff16"
+  },
+  "title": "Die letzte Ebene",
+  "year": 2026,
+  "length": "132 Minuten",
+  "actors": [
+    "David Wagner",
+    "Sarah Bauer",
+    "Leon Schwarz"
+  ],
+  "poster": "/images/Ebene.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff17"
+  },
+  "title": "Chroniken von Morgen",
+  "year": 2027,
+  "length": "117 Minuten",
+  "actors": [
+    "Marie Müller",
+    "Tobias Lang",
+    "Lisa Braun"
+  ],
+  "poster": "/images/Chroniken.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff18"
+  },
+  "title": "Die Wächter des Verborgenen",
+  "year": 2028,
+  "length": "150 Minuten",
+  "actors": [
+    "Felix Zimmermann",
+    "Charlotte Koch",
+    "Alexander Krause"
+  ],
+  "poster": "/images/Waechter.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff19"
+  },
+  "title": "Nebel über Neustadt",
+  "year": 2029,
+  "length": "98 Minuten",
+  "actors": [
+    "Nora Richter",
+    "Simon Wolf",
+    "Julia Hartmann"
+  ],
+  "poster": "/images/Nebel.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff1a"
+  },
+  "title": "Das Lächeln der Medusa",
+  "year": 2030,
+  "length": "136 Minuten",
+  "actors": [
+    "Max Müller",
+    "Katharina Schmid",
+    "Tim Schneider"
+  ],
+  "poster": "/images/Medusa.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff1b"
+  },
+  "title": "Echo des Vergessens",
+  "year": 2022,
+  "length": "123 Minuten",
+  "actors": [
+    "Anna Lehmann",
+    "Fabian Engel",
+    "Lea Frank"
+  ],
+  "poster": "/images/Echo.png",
+  "watchlist": false
+},
+{
+  "_id": {
+    "$oid": "6630e72c95e12055f661ff1c"
+  },
+  "title": "Der Traum von Unendlichkeit",
+  "year": 2024,
+  "length": "140 Minuten",
+  "actors": [
+    "Lukas Wagner",
+    "Mia Sommer",
+    "Jan Schmidt"
+  ],
+  "poster": "/images/Traum.png",
+  "watchlist": false
+}]
